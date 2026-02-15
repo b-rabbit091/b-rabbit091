@@ -7,7 +7,7 @@ Software Engineer | Backend and Full-Stack Development | Researcher
 
 ## About
 
-I am currently pursuing a Master’s degree in Applied Computer Science at Northwest Missouri State University, with a focus on building scalable software systems, AI-driven applications, and cybersecurity education platforms. I have professional experience developing full-stack and backend systems across academic and industry environments, with interest in distributed systems, DevOps, and applied machine learning.
+I am currently pursuing a Master’s degree in Applied Computer Science at Northwest Missouri State University, with a focus on building scalable software systems, AI-driven applications, and cybersecurity education platforms. I have professional experience developing full-stack and backend systems across US healthcare, fintech and academic industry, with interest in distributed systems, DevOps, and applied machine learning.
 
 ---
 
