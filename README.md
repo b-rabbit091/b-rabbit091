@@ -6,7 +6,7 @@ Software Engineer | Backend & Full-Stack Systems | Cloud, DevOps & AI Engineerin
 
 ## About
 
-I am a Software Engineer with a Master’s degree in Applied Computer Science from Northwest Missouri State University and 4+ years of experience building scalable backend, full-stack, cloud, and data-driven systems across healthcare, fintech, and academic environments.
+I am a Software Engineer with a Master’s degree in Applied Computer Science from Northwest Missouri State University and 5+ years of experience building scalable backend, full-stack, cloud, and data-driven systems across healthcare, fintech, and academic environments.
 
 I specialize in designing production-ready software with strong backend architecture, clean API design, secure authentication, role-based access control, automated deployments, observability, and performance optimization. My work includes REST APIs serving thousands of users, AI-assisted cybersecurity platforms, healthcare data pipelines processing large-scale claims data, and cloud-native systems deployed with AWS, Docker, Nginx, Jenkins, and GitLab CI/CD.
 
